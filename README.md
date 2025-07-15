@@ -31,15 +31,24 @@ This application was built as part of my learning in **Python course** using **S
 ## ⚙️ Project Structure 
 
 /WEATHER_PAGE
+
 │
 ├── main.py # Main Streamlit application
+
 ├── backend.py # Logic to fetch and process weather data
+
 ├── .env # Stores the API key securely 
+
 ├── images/ # Weather condition icons (Clear, Cloud, Rain, Snow)
+
 │ ├── clear.png
+
 │ ├── cloud.png
+
 │ ├── rain.png
+
 │ └── snow.png
+
 └── README.md
 
 ## 📎 Screenshot
