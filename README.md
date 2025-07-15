@@ -44,9 +44,9 @@ This application was built as part of my learning in **Python course** using **S
 
 ## 📎 Screenshot
 
-![Sky Screenshot](images\SkyForecastScreenshot.png)
+![Sky Screenshot](images/SkyForecastScreenshot.png)
 
-![Temperature Screenshot](images\TempForecastScreenshot.png)
+![Temperature Screenshot](images/TempForecastScreenshot.png)
 
 ## 👨‍💻 Author
 
